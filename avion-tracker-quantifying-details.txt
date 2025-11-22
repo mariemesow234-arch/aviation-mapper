@@ -1,0 +1,6 @@
+AVIATION TRACKER - QUANTIFYING DETAILS:
+- 150+ lignes de code Python
+- 2 APIs intégrées (géolocalisation + aviation)
+- Interface carte interactive
+- Gestion d'erreurs pour connexions instables
+- Développé en 3 semaines d'apprentissage autonome
